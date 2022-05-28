@@ -1,2 +1,0 @@
-# wumotes
-Emotes by @demilurii
