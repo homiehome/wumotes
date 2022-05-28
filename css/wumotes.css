@@ -1,0 +1,45 @@
+.wm {
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    width: 1.33333333em;
+    line-height: 1em;
+}
+
+.wm:before {
+    content: '\00a0';
+}
+
+.wm-MiwuAhaa { background-image: url('../emotes/miwu/MiwuAhahaa.webp'); }
+.wm-MiwuBless { background-image: url('../emotes/miwu/MiwuBless.webp'); }
+.wm-MiwuBlush { background-image: url('../emotes/miwu/MiwuBlush.webp'); }
+.wm-MiwuBoi-0 { background-image: url('../emotes/miwu/MiwuBoi_0.webp'); }
+.wm-MiwuBoi-1 { background-image: url('../emotes/miwu/MiwuBoi_1.webp'); }
+.wm-MiwuBoi { background-image: url('../emotes/miwu/MiwuBoi.webp'); }
+.wm-MiwuClown { background-image: url('../emotes/miwu/MiwuClown.webp'); }
+.wm-MiwuCoffee { background-image: url('../emotes/miwu/MiwuCoffee.webp'); }
+.wm-MiwuCool { background-image: url('../emotes/miwu/MiwuCool.webp'); }
+.wm-MiwuCozy { background-image: url('../emotes/miwu/MiwuCozy.webp'); }
+.wm-MiwuFine { background-image: url('../emotes/miwu/MiwuFine.webp'); }
+.wm-MiwuFlop { background-image: url('../emotes/miwu/MiwuFlop.webp'); }
+.wm-MiwuGrump { background-image: url('../emotes/miwu/MiwuGrump.webp'); }
+.wm-MiwuHands { background-image: url('../emotes/miwu/MiwuHands.webp'); }
+.wm-MiwuHappi { background-image: url('../emotes/miwu/MiwuHappi.webp'); }
+.wm-MiwuHmm { background-image: url('../emotes/miwu/MiwuHmm.webp'); }
+.wm-MiwuLook { background-image: url('../emotes/miwu/MiwuLook.webp'); }
+.wm-MiwuLove { background-image: url('../emotes/miwu/MiwuLove.webp'); }
+.wm-MiwuLUL { background-image: url('../emotes/miwu/MiwuLUL.webp'); }
+.wm-MiwuNom { background-image: url('../emotes/miwu/MiwuNom.webp'); }
+.wm-MiwuPT { background-image: url('../emotes/miwu/MiwuPT.webp'); }
+.wm-MiwuScheme { background-image: url('../emotes/miwu/MiwuScheme.webp'); }
+.wm-MiwuScrem { background-image: url('../emotes/miwu/MiwuScrem.webp'); }
+.wm-MiwuUwU { background-image: url('../emotes/miwu/MiwuUwU.webp'); }
+.wm-MiwuWiwoo { background-image: url('../emotes/miwu/MiwuWiwoo.webp'); }
+.wm-MiwuWow { background-image: url('../emotes/miwu/MiwuWow.webp'); }
+.wm-MiwuYay { background-image: url('../emotes/miwu/MiwuYay.webp'); }
+.wm-MiwuDoingAnythingExceptHomework { background-image: url('../emotes/miwu/MiwuDoingAnythingExceptHomework.webp'); }
+.wm-MiwuKnowsYouAreRightButWontAdmit { background-image: url('../emotes/miwu/MiwuKnowsYouAreRightButWontAdmit.webp'); }
+.wm-MiwuScremButElsewhere { background-image: url('../emotes/miwu/MiwuScremButElsewhere.webp'); }
+.wm-MiwuWhenYouTellHerSheNeedsToEat { background-image: url('../emotes/miwu/MiwuWhenYouTellHerSheNeedsToEat.webp'); }
